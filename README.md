@@ -1,6 +1,10 @@
 ## Javascrpit 学习笔记
   JavaScript权威指南(第6版)中文版读书笔记
   
+  书籍
+  
+  链接: https://pan.baidu.com/s/1qP4D7wcvfXvuA9fM0F5Flw 提取码: 3wue  
+  
 ### 4.表达式和运算符
  
 ### 5.语句
